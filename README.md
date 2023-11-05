@@ -11,7 +11,7 @@ A Chrome extension to make you study. It gets offensive and annoying lmao
 
 4.Click on load unpacked btn
 
-5. go to the directory where the files you have downloaded are and then  load it
+5.go to the directory where the files you have downloaded are and then  load it
 
 
 #BEST OF LUCK#
