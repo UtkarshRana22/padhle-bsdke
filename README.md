@@ -14,4 +14,7 @@ A Chrome extension to make you study. It gets offensive and annoying lmao
 5.go to the directory where the files you have downloaded are and then  load it
 
 
+6.click the add button in the extension to mark a site that's a distraction in studying 
+
+
 #BEST OF LUCK#
