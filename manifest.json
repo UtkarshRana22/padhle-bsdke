@@ -1,0 +1,23 @@
+{
+    "name": "PadhLeBsdke",
+    "version": "1.0",
+    "description": "Padhai kar le vai ",
+    "permissions": ["activeTab","storage","tabs","notifications"],
+    "background":{
+        "service_worker":"background.js"
+
+    },
+    
+    "action": {
+      "default_icon": {
+        "16": "add.png",
+        "24": "add.png",
+        "32": "add.png"
+      },
+      "default_title": "Padhai Kar vai",
+
+        
+        "default_popup": "popup.html"
+      },
+    "manifest_version": 3
+  }
